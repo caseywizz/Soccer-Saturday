@@ -11,7 +11,7 @@ import org.w3c.dom.NodeList;
 public class Test {
 
 	public static void main(String[] args) {
-		   
+		  
 	      Singleton singleton = Singleton.getInstance();
       try {
     	      
@@ -52,7 +52,6 @@ public class Test {
 			  for (int s = 0; s < nodeLst.getLength(); s++) 
 			  {
 				MatchDay matchday = new MatchDay(nodeLst.item(s));			
-				
 				// Add the match
 				singleton.addMatch(matchday);
 			    //System.out.println(matchday);			   
@@ -66,7 +65,7 @@ public class Test {
 		     /* From matchday 1 to matchday 38 */
 		     for (int i =1; i < 39; i++)
 		     {
-		    	 System.out.println("MatchDay: " + i);
+		    	 //System.out.println("MatchDay: " + i);
 		    	 ArrayList<MatchDay> matchday = Singleton.getInstance().getMatches(i);
 		    	 for (int j = 0; j < matchday.size(); j++)
 		    	 {

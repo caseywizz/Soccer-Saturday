@@ -20,6 +20,7 @@ public class EventGenerator {
 		possibleEventMethodNames.add("penalty");
 		possibleEventMethodNames.add("handball");
 		possibleEventMethodNames.add("substitution");
+		possibleEventMethodNames.add("");
 	}
 	
 	public String generateEvent()

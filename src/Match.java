@@ -117,11 +117,12 @@ public class Match {
 	
 	public String toString()
 	{
-		return "\nHome Team: " + homeTeam.getTeamName() + 
+		return "\nMatchDay: " + matchDay + " MatchNo: " + matchNo +
+				"\nHome Team: " + homeTeam.getTeamName() + 
 				"\nAwayTeam: " + awayTeam.getTeamName()
 				+
 				"\nStadium: " + stadium + referee 
-		        + ", \nResults: (homeHT: " + homeHT + ", awayHT " + awayHT + ", halftimeResult: " + halftimeResult 
+		        + "\nResults: (homeHT: " + homeHT + ", awayHT " + awayHT + ", halftimeResult: " + halftimeResult 
 		        + ", homeFT: " + homeFT + ", awayFT: " + awayFT + " fulltimeResult: " + fulltimeResult + ")";
 	}
 	

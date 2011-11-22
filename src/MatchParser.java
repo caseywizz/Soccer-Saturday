@@ -31,24 +31,18 @@ public class MatchParser {
 		    String fulltimeResult = matchElement.getElementsByTagName("FT_R").item(0).getTextContent();
 				
 		    // parse the args to create a new match
-		    match = new Match(hometeam, awayteam, referee, hometeam.getStadium(), matchNo, matchday); 
-		    // add the results of the match to the match
-			match.addResult(Integer.parseInt(homeHTNodes), Integer.parseInt(awayHTNodes),
-					halftimeResult, Integer.parseInt(homeFTNodes), Integer.parseInt(awayFTNodes), fulltimeResult);
-		  
-
-            /*
-			// homehalftimescore
-			for(int i = 0; i < homeHTNodes.getLength(); i++)
-			{
-				Node node = homeHTNodes.item(i);
-				int homeHT = Integer.parseInt(node.getTextContent());
-				int awayHT = Integer.parseInt(node.getTextContent());
-				
-	
-				match.addMatch(match);
-			}
-			*/
+		   // try{
+		    if(matchday > 0){
+		    	match = new Match(hometeam, awayteam, referee, hometeam.getStadium(), matchNo, matchday); 
+		    	// add the results of the match to the match
+		    	match.addResult(Integer.parseInt(homeHTNodes), Integer.parseInt(awayHTNodes),
+		    			halftimeResult, Integer.parseInt(homeFTNodes), Integer.parseInt(awayFTNodes), fulltimeResult);
+		    	}
+		    
+			/*}
+		    catch(NullPointerException e)
+		    {
+		    } */
 
 		}
 	}

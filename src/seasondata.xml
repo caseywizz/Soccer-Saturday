@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SeasonData>
-   <Match Matchday="15" MatchNo="1" HomeTeam="Aston Villa" AwayTeam="Arsenal" Referee="M Clattenburg">
-    <HT_HG>0</HT_HG>
-    <HT_AG>2</HT_AG>
-    <HT_R>A</HT_R>
-    <FT_HG>2</FT_HG>
-    <FT_AG>4</FT_AG>
-    <FT_R>A</FT_R>
-   </Match>
-    
-    <Match Matchday="37" MatchNo="5" HomeTeam="Arsenal" AwayTeam="Aston Villa" Referee="M Oliver">
-        <HT_HG>0</HT_HG>
-        <HT_AG>2</HT_AG>
-        <HT_R>A</HT_R>
+    <Match Matchday="1" MatchNo="1" HomeTeam="Aston Villa" AwayTeam="West Ham United" Referee="M Dean">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="1" MatchNo="2" HomeTeam="Blackburn Rovers Rovers" AwayTeam="Everton" Referee="P Dowd">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
         <FT_HG>1</FT_HG>
-        <FT_AG>2</FT_AG>
-        <FT_R>A</FT_R>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
     </Match>
 </SeasonData>

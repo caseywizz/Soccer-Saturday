@@ -143,4 +143,1520 @@
                 </player>
             </players>
         </club>
+        
+        <club name="Birmingham City" location="Birmingham" stadium="St Andrew's" capacity="30,079" manager="Alex McLeish">
+            <players>
+                <player name="Boaz Myhill" number="1">
+                    <position>GK</position>
+                </player>
+                <player name="Stephen Carr " number="2">
+                    <position>DF</position>
+                    <role>captain</role>
+                </player>
+                <player name="David Murphy" number="3">
+                    <position>DF</position>
+                </player>
+                <player name="Steven Caldwell" number="4">
+                    <position>DF</position>
+                </player>
+                <player name="Pablo Ibáñez" number="5">
+                    <position>DF</position>
+                </player>
+                <player name="Liam Ridgewell" number="6">
+                    <position>DF</position>
+                </player>
+                <player name="Chris Burke" number="7">
+                    <position>MF</position>
+                </player>
+                <player name="Guirane N'Daw" number="8">
+                    <position>MF</position>
+                </player>
+                <player name="Marlon King" number="9">
+                    <position>FW</position>
+                </player>
+                <player name="Jean Beausejour" number="11">
+                    <position>MF</position>
+                </player>
+                <player name="Jordon Mutch" number="12">
+                    <position>MF</position>
+                </player>
+                <player name="Colin Doyle" number="13">
+                    <position>GK</position>
+                </player>
+                <player name="Morgaro Gomis" number="14">
+                    <position>MF</position>
+                </player>
+                <player name="Wade Elliott" number="15">
+                    <position>MF</position>
+                </player>
+                <player name="Adam Rooney" number="17">
+                    <position>FW</position>
+                </player>
+                <player name="Keith Fahey" number="18">
+                    <position>MF</position>
+                </player>
+                <player name="Nikola Žigić" number="19">
+                    <position>FW</position>
+                </player>
+                <player name="Enric Vallès" number="20">
+                    <position>MF</position>
+                </player>
+                <player name="Curtis Davies" number="24">
+                    <position>DF</position>
+                </player>
+                <player name="Akwasi Asante" number="25">
+                    <position>FW</position>
+                </player>
+                <player name="Jonathan Spector" number="23">
+                    <position>DF</position>
+                    <position>MF</position>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Blackburn Rovers" location="Blackburn" stadium="Ewood Park" capacity="31,367" manager="Steve Kean">
+            <players>
+                <player name = "Paul Robinson" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Míchel Salgado" number = "2">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Martin Olsson" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Christopher Samba" number = "4">
+                    <position>DF</position>
+                    <role>captian</role>
+                </player>
+                <player name = "Gaël Givet" number = "5">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Ryan Nelsen" number = "6">
+                    <position>DF</position>
+                    <role>vice captain</role>
+                </player>
+                <player name = "David Dunn" number = "8">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Mauro Formica" number = "10">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Vince Grella" number = "11">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Morten Gamst Pedersen" number = "12">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Mark Bunn" number = "13">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Radosav Petrović" number = "14">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Steven N'Zonzi" number = "15">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Scott Dann" number = "16">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Jordan Slew" number = "19">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Rubén Rochina" number = "20">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Nick Blackman" number = "22">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "David Hoilett" number = "23">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Yakubu" number = "24">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "David Goodwillie" number = "25">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+            </players>
+           
+        </club>
+        
+        <club name="Blackpool" location="Blackpool" stadium="Bloomfield Road" capacity="16,220" manager="Ian Holloway">
+            <players>
+                <player name = "Matt Gilks" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Stephen Crainey" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Keith Southern" number = "4">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Neal Eardley" number = "5">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Ian Evatt" number = "6">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Billy Clarke" number = "7">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Elliot Grandin" number = "8">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Kevin Phillips" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Brett Ormerod" number = "10">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Gerardo Bruna" number = "11">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Gary Taylor-Fletcher" number = "12">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Daniel Bogdanović" number = "13">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Ludovic Sylvestre" number = "14">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Alex Baptiste" number = "15">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Barry Ferguson (captain)" number = "16">
+                    <position>MF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Chris Basham" number = "17">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Matt Hill" number = "18">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Stephen Husband" number = "19">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Craig Cathcart" number = "20">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Lomana LuaLua" number = "38">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Bolton Wanderers" location="Bolton" stadium="Reebok Stadium" capacity="28,723" manager="Owen Coyle">
+            <players>
+                <player name = "Ádám Bogdán" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Grétar Steinsson" number = "2">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Marcos Alonso" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Paul Robinson" number = "4">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Gary Cahill" number = "5">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Fabrice Muamba" number = "6">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Chris Eagles" number = "7">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Stuart Holden" number = "8">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Tuncay Şanlı" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Martin Petrov" number = "10">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Ricardo Gardner" number = "11">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Zat Knight" number = "12">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Kevin Davies" number = "14">
+                    <position>FW</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Mark Davies" number = "16">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Ivan Klasnić" number = "17">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Sam Ricketts" number = "18">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Nigel Reo-Coker" number = "19">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Jussi Jääskeläinen" number = "22">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "David N'Gog" number = "24">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Chung-Yong Lee" number = "27">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Chelsea" location="London" stadium="Stamford Brigde" capacity="42,449" manager="Carlo Ancelotti">
+            <players>
+                <player name = "Petr Čech" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Branislav Ivanović" number = "2">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Ashley Cole" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "David Luiz" number = "4">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Michael Essien" number = "5">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Ramires" number = "7">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Frank Lampard" number = "8">
+                    <position>MF</position>
+                    <role>vice captain</role>
+                </player>
+                <player name = "Fernando Torres" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Juan Mata" number = "10">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Didier Drogba" number = "11">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "John Obi Mikel" number = "12">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Florent Malouda" number = "15">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Raul Meireles" number = "16">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "José Bosingwa" number = "17">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Paulo Ferreira" number = "19">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Salomon Kalou" number = "21">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Daniel Sturridge" number = "23">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "John Terry" number = "26">
+                    <position>DF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Alex" number = "33">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Nicolas Anelka" number = "39">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Everton" location="Liverpool" stadium="Goodison Park" capacity="40,157" manager="David Moyes">
+            <players>
+                <player name = "Ján Mucha" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Tony Hibbert" number = "2">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Leighton Baines" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "John Heitinga" number = "5">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Phil Jagielka (vice-captain)" number = "6">
+                    <position>DF</position>
+                    <role>vice captain</role>
+                </player>
+                <player name = "Louis Saha" number = "8">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Royston Drenthe (on loan from Real Madrid)" number = "10">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "James McFadden" number = "14">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Sylvain Distin" number = "15">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Tim Cahill" number = "17">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Phil Neville" number = "18">
+                    <position>DF</position>
+                    <role>2nd vice captain</role>
+                </player>
+                <player name = "Magaye Gueye" number = "19">
+                    <position>FW</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Ross Barkley" number = "20">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Leon Osman" number = "21">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Séamus Coleman" number = "23">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Tim Howard" number = "24">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Marouane Fellaini" number = "25">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Victor Anichebe" number = "28">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Adam Forshaw" number = "31">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Aristote Nsiala" number = "36">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Fulham" location="London" stadium="Craven Cottage" capacity="25,700" manager="Mark Hughes">
+            <players>
+                <player name = "Mark Schwarzer" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Stephen Kelly" number = "2">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "John Arne Riise" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Steve Sidwell" number = "4">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Brede Hangeland" number = "5">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Chris Baird" number = "6">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Andy Johnson" number = "8">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Orlando Sá" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Pajtim Kasami" number = "10">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Bryan Ruiz" number = "11">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Danny Murphy" number = "13">
+                    <position>MF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Philippe Senderos" number = "14">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Damien Duff" number = "16">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Bjørn Helge Riise" number = "17">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Aaron Hughes" number = "18">
+                    <position>DF</position>
+                    <role>vice captain</role>
+                </player>
+                <player name = "Dickson Etuhu" number = "20">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Clint Dempsey" number = "23">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Bobby Zamora" number = "25">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Zdeněk Grygera" number = "26">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Simon Davies" number = "29">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Liverpool" location="Liverpool" stadium="Anfield" capacity="45,276" manager="Kenny Dalglish">
+            <players>
+                <player name = "Brad Jones" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Glen Johnson" number = "2">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "José Enrique" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Daniel Agger" number = "5">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Fábio Aurélio" number = "6">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Luis Suárez" number = "7">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Steven Gerrard" number = "8">
+                    <position>MF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Andy Carroll" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Maxi Rodríguez" number = "11">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Jordan Henderson" number = "14">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Dirk Kuyt" number = "18">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Stewart Downing" number = "19">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Danny Wilson" number = "22">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Jamie Carragher" number = "23">
+                    <position>DF</position>
+                    <role>vice captain</role>
+                </player>
+                <player name = "Pepe Reina" number = "25">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Charlie Adam" number = "26">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Raheem Sterling" number = "31">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Martin Kelly" number = "34">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Martin Škrtel" number = "37">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Craig Bellamy" number = "39">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Manchester City" location="Manchester" stadium="City of Manchester Stadium" capacity="47,405" manager="Roberto Mancini">
+            <players>
+                <player name = "Micah Richards" number = "2">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Wayne Bridge" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Vincent Kompany" number = "4">
+                    <position>DF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Pablo Zabaleta" number = "5">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Joleon Lescott" number = "6">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "James Milner" number = "7">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Edin Džeko" number = "10">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Adam Johnson" number = "11">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Aleksandar Kolarov" number = "13">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Sergio Agüero" number = "16">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Gareth Barry" number = "18">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Samir Nasri" number = "19">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "David Silva" number = "21">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Gaël Clichy" number = "22">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Joe Hart" number = "25">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Kolo Touré " number = "28">
+                    <position>DF</position>
+                    <role>vice captain</role>
+                </player>
+                <player name = "Carlos Tévez" number = "32">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Nigel de Jong" number = "34">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Yaya Touré" number = "42">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Mario Balotelli" number = "45">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Manchester United" location="Manchester" stadium="Old Trafford" capacity="75,797" manager="Sir Alex Ferguson">
+            <players>
+                <player name = "David de Gea" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Patrice Evra" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Phil Jones" number = "4">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Rio Ferdinand" number = "5">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Jonny Evans" number = "6">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Michael Owen" number = "7">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Anderson" number = "8">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Dimitar Berbatov" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Wayne Rooney" number = "10">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Ryan Giggs" number = "11">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Chris Smalling" number = "12">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Javier Hernández" number = "14">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Nemanja Vidić" number = "15">
+                    <position>DF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Nani" number = "17">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Ashley Young" number = "18">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Danny Welbeck" number = "19">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Tom Cleverley" number = "23">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Darren Fletcher" number = "24">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Antonio Valencia" number = "25">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Anders Lindegaard" number = "34">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Newcastle United" location="Newcastle-upon-Tyne" stadium="St James' Park" capacity="52,409" manager="Alan Pardew">
+            <players>
+                <player name = "Steve Harper" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Fabricio Coloccini" number = "2">
+                    <position>DF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Davide Santon" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Yohan Cabaye" number = "4">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Danny Simpson" number = "5">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Mike Williamson" number = "6">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Danny Guthrie" number = "8">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Hatem Ben Arfa" number = "10">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Peter Løvenkrands" number = "11">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Mehdi Abeid" number = "13">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "James Perch" number = "14">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Dan Gosling" number = "15">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Ryan Taylor" number = "16">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Jonás Gutiérrez" number = "18">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Demba Ba" number = "19">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Leon Best" number = "20">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Shola Ameobi" number = "23">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Cheick Tioté" number = "24">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Gabriel Obertan" number = "25">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Steven Taylor" number = "27">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Stoke City" location="Stoke-on-Trent" stadium="Britannia Stadium" capacity="27,740" manager="Tony Pulis">
+            <players>
+                <player name = "Asmir Begović" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Danny Higginbotham" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Robert Huth" number = "4">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Glenn Whelan" number = "6">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Tom Soares" number = "8">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Kenwyne Jones" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Ricardo Fuller" number = "10">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Mamady Sidibe" number = "11">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Marc Wilson" number = "12">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Salif Diao" number = "15">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Jermaine Pennant" number = "16">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Ryan Shawcross (captain)" number = "17">
+                    <position>DF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Dean Whitehead" number = "18">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Michael Tonge" number = "23">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Rory Delap" number = "24">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Peter Crouch" number = "25">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Carlo Nash" number = "27">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Thomas Sørensen" number = "29">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Cameron Jerome" number = "33">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Wilson Palacios" number = "40">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Sunderland" location="Sunderland" stadium="Stadium of Light" capacity="49,000" manager="Steve Bruce">
+            <players>
+                <player name = "Craig Gordon" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Phil Bardsley" number = "2">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Michael Turner" number = "4">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Wes Brown" number = "5">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Lee Cattermole" number = "6">
+                    <position>MF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Sebastian Larsson" number = "7">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Craig Gardner" number = "8">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Fraizer Campbell" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Connor Wickham" number = "10">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Kieran Richardson" number = "11">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Jack Colback" number = "14">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "David Vaughan" number = "15">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "John O'Shea" number = "16">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Ji Dong-Won" number = "17">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Titus Bramble" number = "19">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Keiren Westwood" number = "20">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Simon Mignolet" number = "22">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "James McClean" number = "23">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Ahmed Elmohamady" number = "27">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Nicklas Bendtner" number = "52">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Tottenham Hotspur" location="London" stadium="White Hart Lane" capacity="36,230" manager="Harry Redknapp">
+            <players>
+                <player name = "Heurelho Gomes" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Gareth Bale" number = "3">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Younès Kaboul" number = "4">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Tom Huddlestone" number = "6">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Aaron Lennon" number = "7">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Scott Parker" number = "8">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Roman Pavlyuchenko" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Emmanuel Adebayor" number = "10">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Rafael van der Vaart" number = "11">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "William Gallas" number = "13">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Luka Modrić" number = "14">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Jermain Defoe" number = "18">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Sébastien Bassong" number = "19">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Michael Dawson" number = "20">
+                    <position>DF</position>
+                    <role>vice captain</role>
+                </player>
+                <player name = "Niko Kranjčar" number = "21">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Vedran Ćorluka" number = "22">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Carlo Cudicini" number = "23">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Ledley King" number = "26">
+                    <position>DF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Benoît Assou-Ekotto" number = "32">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Steven Pienaar" number = "40">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="West Bromwich Albion" location="West Bromwich" stadium="The Hawthorns" capacity="26,484" manager="Roy Hodgson">
+            <players>
+                <player name = "Ben Foster" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Joe Mattock" number = "2">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Jonas Olsson" number = "3">
+                    <position>DF</position>
+                    <role>vice captain</role>
+                </player>
+                <player name = "Somen Tchoyi" number = "5">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "James Morrison" number = "7">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Shane Long" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Chris Brunt" number = "11">
+                    <position>MF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Steven Reid" number = "12">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Márton Fülöp" number = "13">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Jerome Thomas" number = "14">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Graham Dorrans" number = "17">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Nicky Shorey" number = "20">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Youssuf Mulumbu" number = "21">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Zoltán Gera" number = "22">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Peter Odemwingie" number = "24">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Craig Dawson" number = "25">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Sam Mantom" number = "27">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Billy Jones" number = "28">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Simon Cox" number = "31">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Marc-Antoine Fortuné" number = "32">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="West Ham United" location="London" stadium="Boleyn Ground" capacity="35,303" manager="Avram Grant">
+            <players>
+                <player name = "Robert Green" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Winston Reid" number = "2">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "George McCartney " number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Kevin Nolan (captain)" number = "4">
+                    <position>MF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "James Tomkins" number = "5">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Sam Baldock" number = "7">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "David Bentley" number = "8">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Carlton Cole" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Jack Collison" number = "10">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "John Carew" number = "11">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Matthew Taylor" number = "14">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Abdoulaye Faye" number = "15">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Mark Noble" number = "16">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Joey O'Brien" number = "17">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Julien Faubert" number = "18">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Freddie Sears" number = "19">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Guy Demel" number = "20">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Papa Bouba Diop" number = "21">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Frédéric Piquionne" number = "30">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Gary O'Neil" number = "32">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Wigan Athletic" location="Wigan" stadium="DW Stadium" capacity="25,133" manager="Roberto Martínez">
+            <players>
+                <player name = "Chris Kirkland" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Steve Gohouri" number = "2">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Antolín Alcaraz" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "James McCarthy" number = "4">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Gary Caldwell" number = "5">
+                    <position>DF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Hendry Thomas" number = "6">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Albert Crusat" number = "7">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Ben Watson" number = "8">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Franco Di Santo" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Shaun Maloney" number = "10">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Victor Moses" number = "11">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Mike Pollitt" number = "12">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Lee Nicholls" number = "13">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Jordi Gómez" number = "14">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "James McArthur" number = "16">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Emmerson Boyce" number = "17">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Conor Sammon" number = "18">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "David Jones" number = "19">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Hugo Rodallega" number = "20">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Mohamed Diamé" number = "21">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Wolverhampton Wanderers" location="Wolverhampton" stadium="Molineux" capacity="29,195" manager="Mick McCarthy">
+            <players>
+                <player name = "Wayne Hennessey" number = "1">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "George Elokobi" number = "3">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "David Edwards" number = "4">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Richard Stearman" number = "5">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Jody Craddock" number = "6">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Karl Henry" number = "8">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Sylvan Ebanks-Blake" number = "9">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Steven Fletcher" number = "10">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Stephen Ward" number = "11">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Stephen Hunt" number = "12">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Roger Johnson" number = "14">
+                    <position>DF</position>
+                    <role>captain</role>
+                </player>
+                <player name = "Christophe Berra" number = "16">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Adam Hammill" number = "19">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Nenad Milijaš" number = "20">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Ronald Zubar" number = "23">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Jamie O'Hara" number = "24">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+                <player name = "Kevin Doyle" number = "29">
+                    <position>FW</position>
+                    <role></role>
+                </player>
+                <player name = "Matt Doherty" number = "30">
+                    <position>DF</position>
+                    <role></role>
+                </player>
+                <player name = "Dorus de Vries" number = "31">
+                    <position>GK</position>
+                    <role></role>
+                </player>
+                <player name = "Adlène Guedioura" number = "34">
+                    <position>MF</position>
+                    <role></role>
+                </player>
+            </players>
+        </club>
 </League>
