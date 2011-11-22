@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MatchEvent>
+    <method methodname="freekick">
+        <string>it's a freekick</string>
+    </method>    
+    <method methodname="penalty">
+        <string>it's a penalty</string>
+    </method>    
+    <method methodname="handball">
+        <string>he handles the ball</string>
+    </method>    
+    <method methodname="yellowcard">
+        <string>the player gets a yellow card</string>
+    </method>    
+    <method methodname="redcard">
+        <string>he's SENT OFF!</string>
+    </method>    
+    <method methodname="substitution">
+        <string>it's a substitution</string>
+    </method>    
+    <method methodname="offside">
+        <string>he was caught offide</string>
+    </method>    
+    <method methodname="hitthepost">
+        <string>he came so close, but it's hit the post</string>
+    </method>    
+    <method methodname="offtheline">
+        <string>OMG!! the ball is cleared off the line!! - did it cross the line?</string>
+    </method>    
+    <method methodname="goal">
+        <string>GOOOAAAAALLL!!!</string>
+    </method>
+    <method methodname="missedpenalty">
+        <string>he's missed from 12yrds out</string>
+    </method>    
+    <method methodname="injuredplayer">
+        <string>he's hurt</string>
+    </method>    
+    <method methodname="kickoff">
+        <string>KICK OFF! the game's on the way</string>
+    </method>    
+    <method methodname="halftime">
+        <string>it's been 45mins - HALF TIME</string>
+    </method>    
+    <method methodname="fulltime">
+        <string>it's been a beautiful game of football. - FULL TIME!</string>
+    </method>    
+    <method methodname="goalkick">
+        <string>it's a goal kick</string>
+    </method>    
+    <method methodname="cornerkick">
+        <string>corner kick</string>
+    </method>    
+    <method methodname="throwin">
+        <string>throw in</string>
+    </method>    
+    <method methodname="scoredpenalty">
+        <string>he scores the penalty - GOOOOAAAALL!!</string>
+    </method>    
+</MatchEvent>

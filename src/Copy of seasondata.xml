@@ -1,0 +1,3043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SeasonData>
+    <Match Matchday="1" MatchNo="1" HomeTeam="Aston Villa" AwayTeam="West Ham" Referee="M Dean">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="1" MatchNo="2" HomeTeam="Blackburn" AwayTeam="Everton" Referee="P Dowd">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="1" MatchNo="3" HomeTeam="Bolton" AwayTeam="Fulham" Referee="S Attwell">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="1" MatchNo="4" HomeTeam="Chelsea" AwayTeam="West Brom" Referee="M Clattenburg">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>6</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="1" MatchNo="5" HomeTeam="Sunderland" AwayTeam="Birmingham" Referee="A Taylor">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="1" MatchNo="6" HomeTeam="Tottenham" AwayTeam="Man City" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="1" MatchNo="7" HomeTeam="Wigan" AwayTeam="Blackpool" Referee="M Halsey">
+        <HT_HG>0</HT_HG>
+        <HT_AG>3</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>4</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="1" MatchNo="8" HomeTeam="Wolves" AwayTeam="Stoke" Referee="L Probert">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="1" MatchNo="9" HomeTeam="Liverpool" AwayTeam="Arsenal" Referee="M Atkinson">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="1" MatchNo="10" HomeTeam="Man United" AwayTeam="Newcastle" Referee="C Foy">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="2" MatchNo="1" HomeTeam="Arsenal" AwayTeam="Blackpool" Referee="M Jones">
+        <HT_HG>3</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>6</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="2" MatchNo="2" HomeTeam="Birmingham" AwayTeam="Blackburn" Referee="M Oliver">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="2" MatchNo="3" HomeTeam="Everton" AwayTeam="Wolves" Referee="L Mason">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="2" MatchNo="4" HomeTeam="Stoke" AwayTeam="Tottenham" Referee="C Foy">
+        <HT_HG>1</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="2" MatchNo="5" HomeTeam="West Brom" AwayTeam="Sunderland" Referee="K Friend">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="2" MatchNo="6" HomeTeam="West Ham" AwayTeam="Bolton" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="2" MatchNo="7" HomeTeam="Wigan" AwayTeam="Chelsea" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>6</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="2" MatchNo="8" HomeTeam="Fulham" AwayTeam="Man United" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="2" MatchNo="9" HomeTeam="Newcastle" AwayTeam="Aston Villa" Referee="M Atkinson">
+        <HT_HG>3</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>6</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="2" MatchNo="10" HomeTeam="Man City" AwayTeam="Liverpool" Referee="P Dowd">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="3" MatchNo="1" HomeTeam="Blackburn" AwayTeam="Arsenal" Referee="C Foy">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="3" MatchNo="2" HomeTeam="Blackpool" AwayTeam="Fulham" Referee="M Oliver">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="3" MatchNo="3" HomeTeam="Chelsea" AwayTeam="Stoke" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="3" MatchNo="4" HomeTeam="Man United" AwayTeam="West Ham" Referee="M Clattenburg">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="3" MatchNo="5" HomeTeam="Tottenham" AwayTeam="Wigan" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="3" MatchNo="6" HomeTeam="Wolves" AwayTeam="Newcastle" Referee="S Attwell">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="3" MatchNo="7" HomeTeam="Aston Villa" AwayTeam="Everton" Referee="M Jones">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="3" MatchNo="8" HomeTeam="Bolton" AwayTeam="Birmingham" Referee="K Friend">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="3" MatchNo="9" HomeTeam="Liverpool" AwayTeam="West Brom" Referee="L Probert">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="3" MatchNo="10" HomeTeam="Sunderland" AwayTeam="Man City" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="4" MatchNo="1" HomeTeam="Arsenal" AwayTeam="Bolton" Referee="S Attwell">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="4" MatchNo="2" HomeTeam="Everton" AwayTeam="Man United" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="4" MatchNo="3" HomeTeam="Fulham" AwayTeam="Wolves" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="4" MatchNo="4" HomeTeam="Man City" AwayTeam="Blackburn" Referee="M Clattenburg">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="4" MatchNo="5" HomeTeam="Newcastle" AwayTeam="Blackpool" Referee="L Mason">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="4" MatchNo="6" HomeTeam="West Brom" AwayTeam="Tottenham" Referee="H Webb">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="4" MatchNo="7" HomeTeam="West Ham" AwayTeam="Chelsea" Referee="C Foy">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="4" MatchNo="8" HomeTeam="Wigan" AwayTeam="Sunderland" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="4" MatchNo="9" HomeTeam="Birmingham" AwayTeam="Liverpool" Referee="M Halsey">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="4" MatchNo="10" HomeTeam="Stoke" AwayTeam="Aston Villa" Referee="L Probert">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="5" MatchNo="1" HomeTeam="Aston Villa" AwayTeam="Bolton" Referee="M Dean">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="5" MatchNo="2" HomeTeam="Blackburn" AwayTeam="Fulham" Referee="A Taylor">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="5" MatchNo="3" HomeTeam="Everton" AwayTeam="Newcastle" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="5" MatchNo="4" HomeTeam="Stoke" AwayTeam="West Ham" Referee="L Mason">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="5" MatchNo="5" HomeTeam="Sunderland" AwayTeam="Arsenal" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="5" MatchNo="6" HomeTeam="Tottenham" AwayTeam="Wolves" Referee="M Jones">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="5" MatchNo="7" HomeTeam="West Brom" AwayTeam="Birmingham" Referee="C Foy">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="5" MatchNo="8" HomeTeam="Chelsea" AwayTeam="Blackpool" Referee="M Clattenburg">
+        <HT_HG>4</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="5" MatchNo="9" HomeTeam="Man United" AwayTeam="Liverpool" Referee="H Webb">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="5" MatchNo="10" HomeTeam="Wigan" AwayTeam="Man City" Referee="L Probert">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="6" MatchNo="1" HomeTeam="Arsenal" AwayTeam="West Brom" Referee="M Oliver">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="6" MatchNo="2" HomeTeam="Birmingham" AwayTeam="Wigan" Referee="M Clattenburg">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="6" MatchNo="3" HomeTeam="Blackpool" AwayTeam="Blackburn" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="6" MatchNo="4" HomeTeam="Fulham" AwayTeam="Everton" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="6" MatchNo="5" HomeTeam="Liverpool" AwayTeam="Sunderland" Referee="S Attwell">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="6" MatchNo="6" HomeTeam="Man City" AwayTeam="Chelsea" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="6" MatchNo="7" HomeTeam="West Ham" AwayTeam="Tottenham" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="6" MatchNo="8" HomeTeam="Bolton" AwayTeam="Man United" Referee="P Dowd">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="6" MatchNo="9" HomeTeam="Newcastle" AwayTeam="Stoke" Referee="M Jones">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="6" MatchNo="10" HomeTeam="Wolves" AwayTeam="Aston Villa" Referee="M Halsey">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="7" MatchNo="1" HomeTeam="Birmingham" AwayTeam="Everton" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="7" MatchNo="2" HomeTeam="Stoke" AwayTeam="Blackburn" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="7" MatchNo="3" HomeTeam="Sunderland" AwayTeam="Man United" Referee="C Foy">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="7" MatchNo="4" HomeTeam="Tottenham" AwayTeam="Aston Villa" Referee="M Clattenburg">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="7" MatchNo="5" HomeTeam="West Brom" AwayTeam="Bolton" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="7" MatchNo="6" HomeTeam="West Ham" AwayTeam="Fulham" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="7" MatchNo="7" HomeTeam="Wigan" AwayTeam="Wolves" Referee="L Mason">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="7" MatchNo="8" HomeTeam="Chelsea" AwayTeam="Arsenal" Referee="M Dean">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="7" MatchNo="9" HomeTeam="Liverpool" AwayTeam="Blackpool" Referee="M Jones">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="7" MatchNo="10" HomeTeam="Man City" AwayTeam="Newcastle" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="8" MatchNo="1" HomeTeam="Arsenal" AwayTeam="Birmingham" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="8" MatchNo="2" HomeTeam="Aston Villa" AwayTeam="Chelsea" Referee="L Mason">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="8" MatchNo="3" HomeTeam="Bolton" AwayTeam="Stoke" Referee="P Walton">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="8" MatchNo="4" HomeTeam="Fulham" AwayTeam="Tottenham" Referee="M Dean">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="8" MatchNo="5" HomeTeam="Man United" AwayTeam="West Brom" Referee="M Jones">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="8" MatchNo="6" HomeTeam="Newcastle" AwayTeam="Wigan" Referee="M Halsey">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="8" MatchNo="7" HomeTeam="Wolves" AwayTeam="West Ham" Referee="M Clattenburg">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="8" MatchNo="8" HomeTeam="Blackpool" AwayTeam="Man City" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="8" MatchNo="9" HomeTeam="Everton" AwayTeam="Liverpool" Referee="H Webb">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="8" MatchNo="10" HomeTeam="Blackburn" AwayTeam="Sunderland" Referee="L Probert">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="9" MatchNo="1" HomeTeam="Birmingham" AwayTeam="Blackpool" Referee="A Taylor">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="9" MatchNo="2" HomeTeam="Chelsea" AwayTeam="Wolves" Referee="L Probert">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="9" MatchNo="3" HomeTeam="Sunderland" AwayTeam="Aston Villa" Referee="M Halsey">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="9" MatchNo="4" HomeTeam="Tottenham" AwayTeam="Everton" Referee="M Jones">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="9" MatchNo="5" HomeTeam="West Brom" AwayTeam="Fulham" Referee="K Friend">
+        <HT_HG>2</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="9" MatchNo="6" HomeTeam="West Ham" AwayTeam="Newcastle" Referee="C Foy">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="9" MatchNo="7" HomeTeam="Wigan" AwayTeam="Bolton" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="9" MatchNo="8" HomeTeam="Liverpool" AwayTeam="Blackburn" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="9" MatchNo="9" HomeTeam="Man City" AwayTeam="Arsenal" Referee="M Clattenburg">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="9" MatchNo="10" HomeTeam="Stoke" AwayTeam="Man United" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="10" MatchNo="1" HomeTeam="Arsenal" AwayTeam="West Ham" Referee="M Jones">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="10" MatchNo="2" HomeTeam="Blackburn" AwayTeam="Chelsea" Referee="P Walton">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="10" MatchNo="3" HomeTeam="Everton" AwayTeam="Stoke" Referee="L Probert">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="10" MatchNo="4" HomeTeam="Fulham" AwayTeam="Wigan" Referee="A Marriner">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="10" MatchNo="5" HomeTeam="Man United" AwayTeam="Tottenham" Referee="M Clattenburg">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="10" MatchNo="6" HomeTeam="Wolves" AwayTeam="Man City" Referee="M Dean">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="10" MatchNo="7" HomeTeam="Aston Villa" AwayTeam="Birmingham" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="10" MatchNo="8" HomeTeam="Bolton" AwayTeam="Liverpool" Referee="M Atkinson">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="10" MatchNo="9" HomeTeam="Newcastle" AwayTeam="Sunderland" Referee="P Dowd">
+        <HT_HG>3</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>5</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="10" MatchNo="10" HomeTeam="Blackpool" AwayTeam="West Brom" Referee="M Oliver">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="11" MatchNo="1" HomeTeam="Birmingham" AwayTeam="West Ham" Referee="M Oliver">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="11" MatchNo="2" HomeTeam="Blackburn" AwayTeam="Wigan" Referee="K Friend">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="11" MatchNo="3" HomeTeam="Blackpool" AwayTeam="Everton" Referee="A Marriner">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="11" MatchNo="4" HomeTeam="Bolton" AwayTeam="Tottenham" Referee="C Foy">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="11" MatchNo="5" HomeTeam="Fulham" AwayTeam="Aston Villa" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="11" MatchNo="6" HomeTeam="Man United" AwayTeam="Wolves" Referee="P Dowd">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="11" MatchNo="7" HomeTeam="Sunderland" AwayTeam="Stoke" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="11" MatchNo="8" HomeTeam="Arsenal" AwayTeam="Newcastle" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="11" MatchNo="9" HomeTeam="Liverpool" AwayTeam="Chelsea" Referee="H Webb">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="11" MatchNo="10" HomeTeam="West Brom" AwayTeam="Man City" Referee="L Probert">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="12" MatchNo="1" HomeTeam="Stoke" AwayTeam="Birmingham" Referee="M Clattenburg">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="12" MatchNo="2" HomeTeam="Tottenham" AwayTeam="Sunderland" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="12" MatchNo="3" HomeTeam="Aston Villa" AwayTeam="Blackpool" Referee="A Taylor">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="12" MatchNo="4" HomeTeam="Chelsea" AwayTeam="Fulham" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="12" MatchNo="5" HomeTeam="Everton" AwayTeam="Bolton" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="12" MatchNo="6" HomeTeam="Man City" AwayTeam="Man United" Referee="C Foy">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="12" MatchNo="7" HomeTeam="Newcastle" AwayTeam="Blackburn" Referee="M Jones">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="12" MatchNo="8" HomeTeam="West Ham" AwayTeam="West Brom" Referee="M Dean">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="12" MatchNo="9" HomeTeam="Wigan" AwayTeam="Liverpool" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="12" MatchNo="10" HomeTeam="Wolves" AwayTeam="Arsenal" Referee="M Halsey">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="13" MatchNo="1" HomeTeam="Aston Villa" AwayTeam="Man United" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="13" MatchNo="2" HomeTeam="Man City" AwayTeam="Birmingham" Referee="M Jones">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="13" MatchNo="3" HomeTeam="Newcastle" AwayTeam="Fulham" Referee="L Probert">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="13" MatchNo="4" HomeTeam="Stoke" AwayTeam="Liverpool" Referee="M Halsey">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="13" MatchNo="5" HomeTeam="Tottenham" AwayTeam="Blackburn" Referee="A Marriner">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="13" MatchNo="6" HomeTeam="West Ham" AwayTeam="Blackpool" Referee="K Friend">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="13" MatchNo="7" HomeTeam="Wigan" AwayTeam="West Brom" Referee="A Taylor">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="13" MatchNo="8" HomeTeam="Wolves" AwayTeam="Bolton" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="13" MatchNo="9" HomeTeam="Chelsea" AwayTeam="Sunderland" Referee="C Foy">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="13" MatchNo="10" HomeTeam="Everton" AwayTeam="Arsenal" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="14" MatchNo="1" HomeTeam="Arsenal" AwayTeam="Tottenham" Referee="P Dowd">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="14" MatchNo="2" HomeTeam="Birmingham" AwayTeam="Chelsea" Referee="M Halsey">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="14" MatchNo="3" HomeTeam="Blackpool" AwayTeam="Wolves" Referee="M Clattenburg">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="14" MatchNo="4" HomeTeam="Bolton" AwayTeam="Newcastle" Referee="H Webb">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>5</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="14" MatchNo="5" HomeTeam="Liverpool" AwayTeam="West Ham" Referee="L Probert">
+        <HT_HG>3</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="14" MatchNo="6" HomeTeam="Man United" AwayTeam="Wigan" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="14" MatchNo="7" HomeTeam="West Brom" AwayTeam="Stoke" Referee="C Foy">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="14" MatchNo="8" HomeTeam="Blackburn" AwayTeam="Aston Villa" Referee="M Oliver">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="14" MatchNo="9" HomeTeam="Fulham" AwayTeam="Man City" Referee="L Mason">
+        <HT_HG>0</HT_HG>
+        <HT_AG>3</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>4</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="14" MatchNo="10" HomeTeam="Sunderland" AwayTeam="Everton" Referee="P Walton">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="15" MatchNo="1" HomeTeam="Aston Villa" AwayTeam="Arsenal" Referee="M Clattenburg">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>4</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="15" MatchNo="2" HomeTeam="Bolton" AwayTeam="Blackpool" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="15" MatchNo="3" HomeTeam="Everton" AwayTeam="West Brom" Referee="L Mason">
+        <HT_HG>1</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>4</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="15" MatchNo="4" HomeTeam="Fulham" AwayTeam="Birmingham" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="15" MatchNo="5" HomeTeam="Man United" AwayTeam="Blackburn" Referee="L Probert">
+        <HT_HG>3</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>7</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="15" MatchNo="6" HomeTeam="Stoke" AwayTeam="Man City" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="15" MatchNo="7" HomeTeam="West Ham" AwayTeam="Wigan" Referee="M Halsey">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="15" MatchNo="8" HomeTeam="Wolves" AwayTeam="Sunderland" Referee="M Jones">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="15" MatchNo="9" HomeTeam="Newcastle" AwayTeam="Chelsea" Referee="A Marriner">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="15" MatchNo="10" HomeTeam="Tottenham" AwayTeam="Liverpool" Referee="M Atkinson">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="16" MatchNo="1" HomeTeam="Arsenal" AwayTeam="Fulham" Referee="C Foy">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="16" MatchNo="2" HomeTeam="Birmingham" AwayTeam="Tottenham" Referee="K Friend">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="16" MatchNo="3" HomeTeam="Blackburn" AwayTeam="Wolves" Referee="H Webb">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="16" MatchNo="4" HomeTeam="Chelsea" AwayTeam="Everton" Referee="L Probert">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="16" MatchNo="5" HomeTeam="Man City" AwayTeam="Bolton" Referee="A Marriner">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="16" MatchNo="6" HomeTeam="Wigan" AwayTeam="Stoke" Referee="M Jones">
+        <HT_HG>2</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="16" MatchNo="7" HomeTeam="Sunderland" AwayTeam="West Ham" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="16" MatchNo="8" HomeTeam="West Brom" AwayTeam="Newcastle" Referee="M Dean">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="16" MatchNo="9" HomeTeam="Liverpool" AwayTeam="Aston Villa" Referee="P Dowd">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="16" MatchNo="10" HomeTeam="Aston Villa" AwayTeam="West Brom" Referee="M Halsey">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="17" MatchNo="1" HomeTeam="Everton" AwayTeam="Wigan" Referee="M Oliver">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="17" MatchNo="2" HomeTeam="Fulham" AwayTeam="Sunderland" Referee="N Swarbrick">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="17" MatchNo="3" HomeTeam="Newcastle" AwayTeam="Liverpool" Referee="L Mason">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="17" MatchNo="4" HomeTeam="Stoke" AwayTeam="Blackpool" Referee="A Taylor">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="17" MatchNo="5" HomeTeam="West Ham" AwayTeam="Man City" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="17" MatchNo="6" HomeTeam="Bolton" AwayTeam="Blackburn" Referee="M Clattenburg">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="17" MatchNo="7" HomeTeam="Tottenham" AwayTeam="Chelsea" Referee="M Dean">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="17" MatchNo="8" HomeTeam="Wolves" AwayTeam="Birmingham" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="17" MatchNo="9" HomeTeam="Man United" AwayTeam="Arsenal" Referee="H Webb">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="17" MatchNo="10" HomeTeam="Blackburn" AwayTeam="West Ham" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="18" MatchNo="1" HomeTeam="Sunderland" AwayTeam="Bolton" Referee="C Foy">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="18" MatchNo="2" HomeTeam="Man City" AwayTeam="Everton" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="18" MatchNo="3" HomeTeam="Aston Villa" AwayTeam="Tottenham" Referee="M Atkinson">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="18" MatchNo="4" HomeTeam="Blackburn" AwayTeam="Stoke" Referee="M Jones">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="18" MatchNo="5" HomeTeam="Bolton" AwayTeam="West Brom" Referee="H Webb">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="18" MatchNo="6" HomeTeam="Fulham" AwayTeam="West Ham" Referee="M Halsey">
+        <HT_HG>1</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="18" MatchNo="7" HomeTeam="Man United" AwayTeam="Sunderland" Referee="P Dowd">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="18" MatchNo="8" HomeTeam="Newcastle" AwayTeam="Man City" Referee="C Foy">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="18" MatchNo="9" HomeTeam="Wolves" AwayTeam="Wigan" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="18" MatchNo="10" HomeTeam="Arsenal" AwayTeam="Chelsea" Referee="M Clattenburg">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="19" MatchNo="1" HomeTeam="Birmingham" AwayTeam="Man United" Referee="L Mason">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="19" MatchNo="2" HomeTeam="Man City" AwayTeam="Aston Villa" Referee="M Oliver">
+        <HT_HG>3</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="19" MatchNo="3" HomeTeam="Stoke" AwayTeam="Fulham" Referee="K Friend">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="19" MatchNo="4" HomeTeam="Sunderland" AwayTeam="Blackpool" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="19" MatchNo="5" HomeTeam="Tottenham" AwayTeam="Newcastle" Referee="A Taylor">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="19" MatchNo="6" HomeTeam="West Brom" AwayTeam="Blackburn" Referee="P Dowd">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="19" MatchNo="7" HomeTeam="West Ham" AwayTeam="Everton" Referee="H Webb">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="19" MatchNo="8" HomeTeam="Chelsea" AwayTeam="Bolton" Referee="M Jones">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="19" MatchNo="9" HomeTeam="Liverpool" AwayTeam="Wolves" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="19" MatchNo="10" HomeTeam="Wigan" AwayTeam="Arsenal" Referee="L Probert">
+        <HT_HG>1</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="20" MatchNo="1" HomeTeam="Birmingham" AwayTeam="Arsenal" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="20" MatchNo="2" HomeTeam="Liverpool" AwayTeam="Bolton" Referee="K Friend">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="20" MatchNo="3" HomeTeam="Man City" AwayTeam="Blackpool" Referee="M Clattenburg">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="20" MatchNo="4" HomeTeam="Stoke" AwayTeam="Everton" Referee="A Marriner">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="20" MatchNo="5" HomeTeam="Sunderland" AwayTeam="Blackburn" Referee="M Dean">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="20" MatchNo="6" HomeTeam="Tottenham" AwayTeam="Fulham" Referee="M Jones">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="20" MatchNo="7" HomeTeam="West Brom" AwayTeam="Man United" Referee="C Foy">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="20" MatchNo="8" HomeTeam="West Ham" AwayTeam="Wolves" Referee="L Probert">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="20" MatchNo="9" HomeTeam="Chelsea" AwayTeam="Aston Villa" Referee="L Mason">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="20" MatchNo="10" HomeTeam="Wigan" AwayTeam="Newcastle" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="21" MatchNo="1" HomeTeam="Blackpool" AwayTeam="Birmingham" Referee="J Moss">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="21" MatchNo="2" HomeTeam="Fulham" AwayTeam="West Brom" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="21" MatchNo="3" HomeTeam="Man United" AwayTeam="Stoke" Referee="M Clattenburg">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="21" MatchNo="4" HomeTeam="Arsenal" AwayTeam="Man City" Referee="M Jones">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="21" MatchNo="5" HomeTeam="Aston Villa" AwayTeam="Sunderland" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="21" MatchNo="6" HomeTeam="Blackburn" AwayTeam="Liverpool" Referee="A Marriner">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="21" MatchNo="7" HomeTeam="Bolton" AwayTeam="Wigan" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="21" MatchNo="8" HomeTeam="Everton" AwayTeam="Tottenham" Referee="L Probert">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="21" MatchNo="9" HomeTeam="Newcastle" AwayTeam="West Ham" Referee="M Dean">
+        <HT_HG>3</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>5</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="22" MatchNo="10" HomeTeam="Wolves" AwayTeam="Chelsea" Referee="M Halsey">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="22" MatchNo="1" HomeTeam="Blackpool" AwayTeam="Liverpool" Referee="M Oliver">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="22" MatchNo="2" HomeTeam="Chelsea" AwayTeam="Blackburn" Referee="M Atkinson">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="22" MatchNo="3" HomeTeam="Man City" AwayTeam="Wolves" Referee="L Mason">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="22" MatchNo="4" HomeTeam="Stoke" AwayTeam="Bolton" Referee="M Oliver">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="22" MatchNo="5" HomeTeam="West Brom" AwayTeam="Blackpool" Referee="S Attwell">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="22" MatchNo="6" HomeTeam="West Ham" AwayTeam="Arsenal" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="22" MatchNo="7" HomeTeam="Wigan" AwayTeam="Fulham" Referee="A Taylor">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="22" MatchNo="8" HomeTeam="Birmingham" AwayTeam="Aston Villa" Referee="M Clattenburg">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="22" MatchNo="9" HomeTeam="Liverpool" AwayTeam="Everton" Referee="P Dowd">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="22" MatchNo="10" HomeTeam="Sunderland" AwayTeam="Newcastle" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="23" MatchNo="1" HomeTeam="Tottenham" AwayTeam="Man United" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="23" MatchNo="2" HomeTeam="Arsenal" AwayTeam="Wigan" Referee="K Friend">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="23" MatchNo="3" HomeTeam="Aston Villa" AwayTeam="Man City" Referee="H Webb">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="23" MatchNo="4" HomeTeam="Blackpool" AwayTeam="Sunderland" Referee="L Mason">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="23" MatchNo="5" HomeTeam="Everton" AwayTeam="West Ham" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="23" MatchNo="6" HomeTeam="Fulham" AwayTeam="Stoke" Referee="S Attwell">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="23" MatchNo="7" HomeTeam="Man United" AwayTeam="Birmingham" Referee="M Jones">
+        <HT_HG>3</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>5</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="23" MatchNo="8" HomeTeam="Newcastle" AwayTeam="Tottenham" Referee="M Halsey">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="23" MatchNo="9" HomeTeam="Wolves" AwayTeam="Liverpool" Referee="M Atkinson">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="23" MatchNo="10" HomeTeam="Blackburn" AwayTeam="West Brom" Referee="M Clattenburg">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="24" MatchNo="1" HomeTeam="Bolton" AwayTeam="Chelsea" Referee="C Foy">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>4</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="24" MatchNo="2" HomeTeam="Blackpool" AwayTeam="Man United" Referee="P Walton">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="24" MatchNo="3" HomeTeam="Wigan" AwayTeam="Aston Villa" Referee="J Moss">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="24" MatchNo="4" HomeTeam="Liverpool" AwayTeam="Fulham" Referee="L Probert">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="24" MatchNo="5" HomeTeam="Arsenal" AwayTeam="Everton" Referee="L Mason">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="24" MatchNo="6" HomeTeam="Man United" AwayTeam="Aston Villa" Referee="C Foy">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="24" MatchNo="7" HomeTeam="Sunderland" AwayTeam="Chelsea" Referee="M Halsey">
+        <HT_HG>2</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>4</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="24" MatchNo="8" HomeTeam="West Brom" AwayTeam="Wigan" Referee="P Dowd">
+        <HT_HG>1</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="24" MatchNo="9" HomeTeam="Birmingham" AwayTeam="Man City" Referee="K Friend">
+        <HT_HG>1</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="24" MatchNo="10" HomeTeam="Blackburn" AwayTeam="Tottenham" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="25" MatchNo="1" HomeTeam="Blackpool" AwayTeam="West Ham" Referee="S Attwell">
+        <HT_HG>1</HT_HG>
+        <HT_AG>3</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="25" MatchNo="2" HomeTeam="Bolton" AwayTeam="Wolves" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="25" MatchNo="3" HomeTeam="Fulham" AwayTeam="Newcastle" Referee="M Jones">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="25" MatchNo="4" HomeTeam="Liverpool" AwayTeam="Stoke" Referee="A Taylor">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="25" MatchNo="5" HomeTeam="Aston Villa" AwayTeam="Fulham" Referee="L Mason">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="25" MatchNo="6" HomeTeam="Everton" AwayTeam="Blackpool" Referee="K Friend">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>5</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="25" MatchNo="7" HomeTeam="Man City" AwayTeam="West Brom" Referee="M Atkinson">
+        <HT_HG>3</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="25" MatchNo="8" HomeTeam="Newcastle" AwayTeam="Arsenal" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>4</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>4</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="25" MatchNo="9" HomeTeam="Stoke" AwayTeam="Sunderland" Referee="L Probert">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="25" MatchNo="10" HomeTeam="Tottenham" AwayTeam="Bolton" Referee="M Clattenburg">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="26" MatchNo="1" HomeTeam="Wigan" AwayTeam="Blackburn" Referee="M Dean">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="26" MatchNo="2" HomeTeam="Wolves" AwayTeam="Man United" Referee="M Oliver">
+        <HT_HG>2</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="26" MatchNo="3" HomeTeam="Chelsea" AwayTeam="Liverpool" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="26" MatchNo="4" HomeTeam="West Ham" AwayTeam="Birmingham" Referee="C Foy">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="26" MatchNo="5" HomeTeam="Arsenal" AwayTeam="Wolves" Referee="C Foy">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="26" MatchNo="6" HomeTeam="Birmingham" AwayTeam="Stoke" Referee="M Halsey">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="26" MatchNo="7" HomeTeam="Blackburn" AwayTeam="Newcastle" Referee="S Attwell">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="26" MatchNo="8" HomeTeam="Blackpool" AwayTeam="Aston Villa" Referee="H Webb">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="26" MatchNo="9" HomeTeam="Liverpool" AwayTeam="Wigan" Referee="K Friend">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="26" MatchNo="10" HomeTeam="Man United" AwayTeam="Man City" Referee="A Marriner">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="27" MatchNo="1" HomeTeam="Sunderland" AwayTeam="Tottenham" Referee="M Jones">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="27" MatchNo="2" HomeTeam="West Brom" AwayTeam="West Ham" Referee="L Mason">
+        <HT_HG>3</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="27" MatchNo="3" HomeTeam="Bolton" AwayTeam="Everton" Referee="L Probert">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="27" MatchNo="4" HomeTeam="Fulham" AwayTeam="Chelsea" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="27" MatchNo="5" HomeTeam="Birmingham" AwayTeam="Newcastle" Referee="L Mason">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="27" MatchNo="6" HomeTeam="West Brom" AwayTeam="Wolves" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="27" MatchNo="7" HomeTeam="Blackpool" AwayTeam="Tottenham" Referee="C Foy">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="27" MatchNo="8" HomeTeam="Arsenal" AwayTeam="Stoke" Referee="P Walton">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="27" MatchNo="9" HomeTeam="Aston Villa" AwayTeam="Blackburn" Referee="M Atkinson">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="27" MatchNo="10" HomeTeam="Everton" AwayTeam="Sunderland" Referee="S Attwell">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="28" MatchNo="1" HomeTeam="Newcastle" AwayTeam="Bolton" Referee="C Foy">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="28" MatchNo="2" HomeTeam="Wigan" AwayTeam="Man United" Referee="M Clattenburg">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>4</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="28" MatchNo="3" HomeTeam="Wolves" AwayTeam="Blackpool" Referee="N Swarbrick">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="28" MatchNo="4" HomeTeam="Man City" AwayTeam="Fulham" Referee="P Walton">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="28" MatchNo="5" HomeTeam="West Ham" AwayTeam="Liverpool" Referee="M Halsey">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="28" MatchNo="6" HomeTeam="Stoke" AwayTeam="West Brom" Referee="M Oliver">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="28" MatchNo="7" HomeTeam="Chelsea" AwayTeam="Man United" Referee="M Atkinson">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="28" MatchNo="8" HomeTeam="Arsenal" AwayTeam="Sunderland" Referee="A Taylor">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="28" MatchNo="9" HomeTeam="Birmingham" AwayTeam="West Brom" Referee="M Jones">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="28" MatchNo="10" HomeTeam="Bolton" AwayTeam="Aston Villa" Referee="K Friend">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="29" MatchNo="1" HomeTeam="Fulham" AwayTeam="Blackburn" Referee="M Clattenburg">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="29" MatchNo="2" HomeTeam="Man City" AwayTeam="Wigan" Referee="S Attwell">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="29" MatchNo="3" HomeTeam="Newcastle" AwayTeam="Everton" Referee="H Webb">
+        <HT_HG>1</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="29" MatchNo="4" HomeTeam="West Ham" AwayTeam="Stoke" Referee="A Marriner">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="29" MatchNo="5" HomeTeam="Liverpool" AwayTeam="Man United" Referee="P Dowd">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="29" MatchNo="6" HomeTeam="Wolves" AwayTeam="Tottenham" Referee="M Halsey">
+        <HT_HG>2</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="29" MatchNo="7" HomeTeam="Blackpool" AwayTeam="Chelsea" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="29" MatchNo="8" HomeTeam="Everton" AwayTeam="Birmingham" Referee="P Walton">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="29" MatchNo="9" HomeTeam="Aston Villa" AwayTeam="Wolves" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="29" MatchNo="10" HomeTeam="Blackburn" AwayTeam="Blackpool" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="30" MatchNo="1" HomeTeam="Everton" AwayTeam="Fulham" Referee="M Oliver">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="30" MatchNo="2" HomeTeam="Man United" AwayTeam="Bolton" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="30" MatchNo="3" HomeTeam="Stoke" AwayTeam="Newcastle" Referee="L Mason">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="30" MatchNo="4" HomeTeam="Tottenham" AwayTeam="West Ham" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="30" MatchNo="5" HomeTeam="West Brom" AwayTeam="Arsenal" Referee="S Attwell">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="30" MatchNo="6" HomeTeam="Wigan" AwayTeam="Birmingham" Referee="L Probert">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="30" MatchNo="7" HomeTeam="Chelsea" AwayTeam="Man City" Referee="C Foy">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="30" MatchNo="8" HomeTeam="Sunderland" AwayTeam="Liverpool" Referee="K Friend">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="30" MatchNo="9" HomeTeam="Arsenal" AwayTeam="Blackburn" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="30" MatchNo="10" HomeTeam="Birmingham" AwayTeam="Bolton" Referee="M Oliver">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="31" MatchNo="1" HomeTeam="Everton" AwayTeam="Aston Villa" Referee="M Jones">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="31" MatchNo="2" HomeTeam="Newcastle" AwayTeam="Wolves" Referee="M Dean">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="31" MatchNo="3" HomeTeam="Stoke" AwayTeam="Chelsea" Referee="P Walton">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="31" MatchNo="4" HomeTeam="West Brom" AwayTeam="Liverpool" Referee="M Atkinson">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="31" MatchNo="5" HomeTeam="West Ham" AwayTeam="Man United" Referee="L Mason">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>4</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="31" MatchNo="6" HomeTeam="Wigan" AwayTeam="Tottenham" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="31" MatchNo="7" HomeTeam="Fulham" AwayTeam="Blackpool" Referee="S Attwell">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="31" MatchNo="8" HomeTeam="Man City" AwayTeam="Sunderland" Referee="H Webb">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>5</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="31" MatchNo="9" HomeTeam="Blackburn" AwayTeam="Birmingham" Referee="C Foy">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="31" MatchNo="10" HomeTeam="Bolton" AwayTeam="West Ham" Referee="L Probert">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="32" MatchNo="1" HomeTeam="Chelsea" AwayTeam="Wigan" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="32" MatchNo="2" HomeTeam="Man United" AwayTeam="Fulham" Referee="M Jones">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="32" MatchNo="3" HomeTeam="Sunderland" AwayTeam="West Brom" Referee="P Walton">
+        <HT_HG>2</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="32" MatchNo="4" HomeTeam="Tottenham" AwayTeam="Stoke" Referee="K Friend">
+        <HT_HG>3</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="32" MatchNo="5" HomeTeam="Wolves" AwayTeam="Everton" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>3</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="32" MatchNo="6" HomeTeam="Aston Villa" AwayTeam="Newcastle" Referee="S Attwell">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="32" MatchNo="7" HomeTeam="Blackpool" AwayTeam="Arsenal" Referee="L Mason">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="32" MatchNo="8" HomeTeam="Liverpool" AwayTeam="Man City" Referee="M Halsey">
+        <HT_HG>3</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="32" MatchNo="9" HomeTeam="Birmingham" AwayTeam="Sunderland" Referee="P Dowd">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="32" MatchNo="10" HomeTeam="Blackpool" AwayTeam="Wigan" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="33" MatchNo="1" HomeTeam="Everton" AwayTeam="Blackburn" Referee="K Friend">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="33" MatchNo="2" HomeTeam="West Brom" AwayTeam="Chelsea" Referee="L Probert">
+        <HT_HG>1</HT_HG>
+        <HT_AG>3</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="33" MatchNo="3" HomeTeam="West Ham" AwayTeam="Aston Villa" Referee="M Halsey">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="33" MatchNo="4" HomeTeam="Arsenal" AwayTeam="Liverpool" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="33" MatchNo="5" HomeTeam="Newcastle" AwayTeam="Man United" Referee="L Probert">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="33" MatchNo="6" HomeTeam="Chelsea" AwayTeam="Birmingham" Referee="M Jones">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="33" MatchNo="7" HomeTeam="Tottenham" AwayTeam="Arsenal" Referee="M Atkinson">
+        <HT_HG>2</HT_HG>
+        <HT_AG>3</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="33" MatchNo="8" HomeTeam="Aston Villa" AwayTeam="Stoke" Referee="C Foy">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="33" MatchNo="9" HomeTeam="Blackpool" AwayTeam="Newcastle" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="33" MatchNo="10" HomeTeam="Chelsea" AwayTeam="West Ham" Referee="P Dowd">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="34" MatchNo="1" HomeTeam="Liverpool" AwayTeam="Birmingham" Referee="H Webb">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>5</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="34" MatchNo="2" HomeTeam="Man United" AwayTeam="Everton" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="34" MatchNo="3" HomeTeam="Sunderland" AwayTeam="Wigan" Referee="L Probert">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="34" MatchNo="4" HomeTeam="Tottenham" AwayTeam="West Brom" Referee="S Attwell">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="34" MatchNo="5" HomeTeam="Wolves" AwayTeam="Fulham" Referee="M Oliver">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="34" MatchNo="6" HomeTeam="Bolton" AwayTeam="Arsenal" Referee="M Jones">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="34" MatchNo="7" HomeTeam="Blackburn" AwayTeam="Man City" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="34" MatchNo="8" HomeTeam="Stoke" AwayTeam="Wolves" Referee="L Mason">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="34" MatchNo="9" HomeTeam="Fulham" AwayTeam="Bolton" Referee="A Taylor">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="34" MatchNo="10" HomeTeam="Blackburn" AwayTeam="Bolton" Referee="M Dean">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="35" MatchNo="1" HomeTeam="Blackpool" AwayTeam="Stoke" Referee="M Clattenburg">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="35" MatchNo="2" HomeTeam="Chelsea" AwayTeam="Tottenham" Referee="A Marriner">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="35" MatchNo="3" HomeTeam="Sunderland" AwayTeam="Fulham" Referee="M Atkinson">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="35" MatchNo="4" HomeTeam="West Brom" AwayTeam="Aston Villa" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="35" MatchNo="5" HomeTeam="Wigan" AwayTeam="Everton" Referee="L Mason">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="35" MatchNo="6" HomeTeam="Arsenal" AwayTeam="Man United" Referee="C Foy">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="35" MatchNo="7" HomeTeam="Birmingham" AwayTeam="Wolves" Referee="K Friend">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="35" MatchNo="8" HomeTeam="Liverpool" AwayTeam="Newcastle" Referee="P Walton">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="35" MatchNo="9" HomeTeam="Man City" AwayTeam="West Ham" Referee="H Webb">
+        <HT_HG>2</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="35" MatchNo="10" HomeTeam="Aston Villa" AwayTeam="Wigan" Referee="M Jones">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="36" MatchNo="1" HomeTeam="Bolton" AwayTeam="Sunderland" Referee="K Friend">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="36" MatchNo="2" HomeTeam="Everton" AwayTeam="Man City" Referee="P Dowd">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="36" MatchNo="3" HomeTeam="Newcastle" AwayTeam="Birmingham" Referee="C Foy">
+        <HT_HG>2</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="36" MatchNo="4" HomeTeam="Tottenham" AwayTeam="Blackpool" Referee="L Probert">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="36" MatchNo="5" HomeTeam="West Ham" AwayTeam="Blackburn" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="36" MatchNo="6" HomeTeam="Man United" AwayTeam="Chelsea" Referee="H Webb">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="36" MatchNo="7" HomeTeam="Stoke" AwayTeam="Arsenal" Referee="M Halsey">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="36" MatchNo="8" HomeTeam="Wolves" AwayTeam="West Brom" Referee="M Dean">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="36" MatchNo="9" HomeTeam="Fulham" AwayTeam="Liverpool" Referee="L Mason">
+        <HT_HG>0</HT_HG>
+        <HT_AG>3</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>5</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="36" MatchNo="10" HomeTeam="Man City" AwayTeam="Tottenham" Referee="M Dean">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="37" MatchNo="1" HomeTeam="Blackburn" AwayTeam="Man United" Referee="P Dowd">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="37" MatchNo="2" HomeTeam="Blackpool" AwayTeam="Bolton" Referee="A Marriner">
+        <HT_HG>3</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="37" MatchNo="3" HomeTeam="Sunderland" AwayTeam="Wolves" Referee="M Jones">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="37" MatchNo="4" HomeTeam="West Brom" AwayTeam="Everton" Referee="A Taylor">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="37" MatchNo="5" HomeTeam="Arsenal" AwayTeam="Aston Villa" Referee="M Oliver">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="37" MatchNo="6" HomeTeam="Birmingham" AwayTeam="Fulham" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="37" MatchNo="7" HomeTeam="Chelsea" AwayTeam="Newcastle" Referee="L Mason">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="37" MatchNo="8" HomeTeam="Liverpool" AwayTeam="Tottenham" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="37" MatchNo="9" HomeTeam="Wigan" AwayTeam="West Ham" Referee="M Dean">
+        <HT_HG>0</HT_HG>
+        <HT_AG>2</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="37" MatchNo="10" HomeTeam="Man City" AwayTeam="Stoke" Referee="L Probert">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="38" MatchNo="1" HomeTeam="Aston Villa" AwayTeam="Liverpool" Referee="L Probert">
+        <HT_HG>1</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="38" MatchNo="2" HomeTeam="Bolton" AwayTeam="Man City" Referee="C Foy">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="38" MatchNo="3" HomeTeam="Everton" AwayTeam="Chelsea" Referee="P Walton">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>1</FT_HG>
+        <FT_AG>0</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="38" MatchNo="4" HomeTeam="Fulham" AwayTeam="Arsenal" Referee="M Atkinson">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="38" MatchNo="5" HomeTeam="Man United" AwayTeam="Blackpool" Referee="M Dean">
+        <HT_HG>1</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>4</FT_HG>
+        <FT_AG>2</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="38" MatchNo="6" HomeTeam="Newcastle" AwayTeam="West Brom" Referee="M Halsey">
+        <HT_HG>2</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>H</HT_R>
+        <FT_HG>3</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>D</FT_R>
+    </Match>
+    <Match Matchday="38" MatchNo="7" HomeTeam="Stoke" AwayTeam="Wigan" Referee="A Marriner">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="38" MatchNo="8" HomeTeam="Tottenham" AwayTeam="Birmingham" Referee="M Clattenburg">
+        <HT_HG>0</HT_HG>
+        <HT_AG>0</HT_AG>
+        <HT_R>D</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>1</FT_AG>
+        <FT_R>H</FT_R>
+    </Match>
+    <Match Matchday="38" MatchNo="9" HomeTeam="West Ham" AwayTeam="Sunderland" Referee="A Taylor">
+        <HT_HG>0</HT_HG>
+        <HT_AG>1</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>0</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+    <Match Matchday="38" MatchNo="10" HomeTeam="Wolves" AwayTeam="Blackburn" Referee="H Webb">
+        <HT_HG>0</HT_HG>
+        <HT_AG>3</HT_AG>
+        <HT_R>A</HT_R>
+        <FT_HG>2</FT_HG>
+        <FT_AG>3</FT_AG>
+        <FT_R>A</FT_R>
+    </Match>
+</SeasonData>

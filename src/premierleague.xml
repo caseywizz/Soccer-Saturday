@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<League>
+        <club name="Arsenal" location="London" stadium="Emirates Stadium" capacity="60,355" manager="Arsène Wenger">
+            <players>
+                <player name="Wojciech Szczęsny" number="53">
+                    <position>GK</position>
+                </player>
+                <player name="Bacary Sagna" number="3">
+                    <position>DF</position>
+                </player>
+                <player name="Thomas Vermaelen" number="5">
+                    <position>DF</position>
+                    <role>vice-captain</role>
+                </player>
+                <player name="Laurent Koschelny" number="6">
+                    <position>DF</position>
+                </player>
+                <player name="Per Mertesacker" number="4">
+                    <position>DF</position>
+                </player>
+                <player name="Tomáš Rosický" number="7">
+                    <position>MF</position>
+                </player>
+                <player name="Jack Wilshere" number="19">
+                    <position>MF</position>
+                </player>
+                <player name="Mikel Arteta" number="8">
+                    <position>MF</position>
+                </player>
+                <player name="Aaron Ramsey" number="16">
+                    <position>MF</position>
+                </player>
+                <player name="Park Chu-Young" number="9">
+                    <position>FW</position>
+                </player>
+                <player name="Robin van Persie" number="10">
+                    <position>FW</position>
+                    <role>captain</role>
+                </player>
+                <player name="Theo Walcott" number="7">
+                    <position>FW</position>
+                </player>
+                <player name="André Santos" number="11">
+                    <position>DF</position>
+                    <position>MF</position>
+                </player>
+                <player name="Abou Diaby" number="2">
+                    <position>MF</position>
+                </player>
+                <player name="Łukasz Fabiański" number="21">
+                    <position>GK</position>
+                </player>
+                <player name="Gervinho" number="27">
+                    <position>MF</position>
+                    <position>FW</position>
+                </player>
+                <player name="Andrei Arshavin" number="23">
+                    <position>MF</position>
+                    <position>FW</position>
+                </player>
+                <player name="Yossi Benayoun" number="30">
+                    <position>MF</position>
+                </player>
+                <player name="Carl Jenkinson" number="25">
+                    <position>DF</position>
+                </player>
+                <player name="Marouane Chamakh" number="29">
+                    <position>FW</position>
+                </player>
+                <player name="Sébastien Squillaci" number="18">
+                    <position>DF</position>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Aston Villa" location="Birmingham" stadium="Villa Park" capacity="42,789" manager="Gérard Houllier">
+            <players>
+                <player name="Shay Given" number="1">
+                    <position>GK</position>
+                </player>
+                <player name="Alan Hutton" number="2">
+                    <position>DF</position>
+                </player>
+                <player name="Stephen Warnock" number="3">
+                    <position>DF</position>
+                </player>
+                <player name="Richard Dunne" number="5">
+                    <position>DF</position>
+                    <role>vice-captain</role>
+                </player>
+                <player name="James Collins" number="6">
+                    <position>DF</position>
+                </player>
+                <player name="Stephen Ireland" number="7">
+                    <position>MF</position>
+                </player>
+                <player name="Jermaine Jenas" number="8">
+                    <position>MF</position>
+                </player>
+                <player name="Darren Bent" number="9">
+                    <position>FW</position>
+                </player>
+                <player name="Charles N'Zogbia" number="10">
+                    <position>MF</position>
+                </player>
+                <player name="Gabriel Agbonlahor" number="11">
+                    <position>MF</position>
+                    <position>FW</position>
+                </player>
+                <player name="Marc Albrighton" number="12">
+                    <position>MF</position>
+                </player>
+                <player name="Stiliyan Petrov" number="19">
+                    <position>MF</position>
+                    <role>captain</role>
+                </player>
+                <player name="Brad Guzan" number="22">
+                    <position>GK</position>
+                </player>
+                <player name="Nathan Delfouneso" number="14">
+                    <position>FW</position>
+                </player>
+                <player name="Emile Heskey" number="18">
+                    <position>FW</position>
+                </player>
+                <player name="Fabian Delph" number="16">
+                    <position>MF</position>
+                </player>
+                <player name="Habib Beye" number="23">
+                    <position>DF</position>
+                </player>
+                <player name="Nathan Baker" number="32">
+                    <position>DF</position>
+                </player>
+                <player name="Shane Lowry" number="34">
+                    <position>DF</position>
+                </player>
+                <player name="Ciaran Clark" number="21">
+                    <position>DF</position>
+                </player>
+                <player name="Andreas Weimann" number="26">
+                    <position>FW</position>
+                </player>
+            </players>
+        </club>
+        
+        <club name="Birmingham City " location="Birmingham" stadium="St Andrew's" capacity="30,079" manager="Alex McLeish">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Blackburn Rovers" location="Blackburn" stadium="Ewood Park" capacity="31,367" manager="Steve Kean">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Blackpool" location="Blackpool" stadium="Bloomfield Road" capacity="16,220" manager="Ian Holloway">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Bolton Wanderers" location="Bolton" stadium="Reebok Stadium" capacity="28,723" manager="Owen Coyle">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Chelsea" location="London" stadium="Stamford Brigde" capacity="42,449" manager="Carlo Ancelotti">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Everton" location="Liverpool" stadium="Goodison Park" capacity="40,157" manager="David Moyes">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Fulham" location="London" stadium="Craven Cottage" capacity="25,700" manager="Mark Hughes">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Liverpool" location="Liverpool" stadium="Anfield" capacity="45,276" manager="Kenny Dalglish">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Manchester City" location="Manchester" stadium="City of Manchester Stadium" capacity="47,405" manager="Roberto Mancini">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Manchester United" location="Manchester" stadium="Old Trafford" capacity="75,797" manager="Sir Alex Ferguson">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Newcastle United" location="Newcastle-upon-Tyne" stadium="St James' Park" capacity="52,409" manager="Alan Pardew">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Stoke City" location="Stoke-on-Trent" stadium="Britannia Stadium" capacity="27,740" manager="Tony Pulis">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Sunderland" location="Sunderland" stadium="Stadium of Light" capacity="49,000" manager="Steve Bruce">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Tottenham Hotspur" location="London" stadium="White Hart Lane" capacity="36,230" manager="Harry Redknapp">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="West Bromwich Albion" location="West Bromwich" stadium="The Hawthorns" capacity="26,484" manager="Roy Hodgson">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="West Ham United" location="London" stadium="Boleyn Ground" capacity="35,303" manager="Avram Grant">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Wigan Athletic" location="Wigan" stadium="DW Stadium" capacity="25,133" manager="Roberto Martínez">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+        
+        <club name="Wolverhampton Wanderers" location="Wolverhampton" stadium="Molineux" capacity="29,195" manager="Mick McCarthy">
+            <players>
+                <player name="">
+                    <position>"GK"</position>
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+                <player name="">
+                    
+                </player>
+            </players>
+        </club>
+</League>
