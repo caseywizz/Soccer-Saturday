@@ -20,13 +20,15 @@ public class EventGenerator {
 		possibleEventMethodNames.add("penalty");
 		possibleEventMethodNames.add("handball");
 		possibleEventMethodNames.add("substitution");
-		possibleEventMethodNames.add("");
+		possibleEventMethodNames.add("goalkick");
+		possibleEventMethodNames.add("throwing");
+
 	}
 	
 	public String generateEvent()
 	{
-	   Random randomGenerator = new Random();
-	   int index = randomGenerator.nextInt(possibleEventMethodNames.size());
-       return possibleEventMethodNames.get(index);
+		Random randomGenerator = new Random();
+		int index = randomGenerator.nextInt(possibleEventMethodNames.size());
+		return possibleEventMethodNames.get(index);
 	}
 }

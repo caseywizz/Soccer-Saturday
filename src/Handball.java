@@ -4,6 +4,8 @@ public class Handball extends PriorityEvent
 {
 	Player handler;
 	Date time_of_handball;
+	Freekick resultsinfreekick;
+	Penalty resultsinpenalty;
 	
 	public Handball(Match match) { 
 		super(match);
@@ -15,6 +17,15 @@ public class Handball extends PriorityEvent
 		this.time_of_handball = time_of_handball;
 	}
 
+	public Freekick resultsinfreekick()
+	{
+		return resultsinfreekick;
+	}
+	
+	public Penalty resultsinpenalty()
+	{
+		return resultsinpenalty;
+	}
 	
 	String occur(){ // implementation of a goal
 		return "It's a Handball!!  handler: " + handler.playerName;

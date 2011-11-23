@@ -22,6 +22,7 @@ public class MatchParser {
 			Team awayteam = Singleton.getInstance().getTeam(away); 
 			Referee referee = new Referee(ref);
 			
+			// set match results from the xml tags
 		    Element matchElement = (Element) matchdayNode;
 			String homeHTNodes = matchElement.getElementsByTagName("HT_HG").item(0).getTextContent();  
 			String awayHTNodes = matchElement.getElementsByTagName("HT_AG").item(0).getTextContent();
@@ -32,14 +33,13 @@ public class MatchParser {
 				
 		    // parse the args to create a new match
 		   // try{
-		    if(matchday > 0){
+		    	//do{
 		    	match = new Match(hometeam, awayteam, referee, hometeam.getStadium(), matchNo, matchday); 
 		    	// add the results of the match to the match
 		    	match.addResult(Integer.parseInt(homeHTNodes), Integer.parseInt(awayHTNodes),
 		    			halftimeResult, Integer.parseInt(homeFTNodes), Integer.parseInt(awayFTNodes), fulltimeResult);
-		    	}
-		    
-			/*}
+		    	//}while(matchday != matchNo && matchday == matchNo);
+		    	/*}
 		    catch(NullPointerException e)
 		    {
 		    } */

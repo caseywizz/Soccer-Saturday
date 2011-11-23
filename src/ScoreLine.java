@@ -11,6 +11,7 @@ public class ScoreLine {
 	private int awayFT = 0;
 	private String resultFT = "D";
 	
+	Match match;
 	public ScoreLine(int homeHT, int awayHT, String resultHT, int homeFT, int awayFT, String resultFT) {
 		this.homeHT = homeHT;
 		this.awayHT = awayHT;
@@ -20,10 +21,11 @@ public class ScoreLine {
 		this.resultFT = resultFT;
 	} // ScoreLine Constructor
 	
-	public static ScoreLine getScoreLine(int score)
+	public ScoreLine getfinalScoreLine(int homeFT, int awayFT, String resultFT)
 	{
 		ScoreLine finalScore = null;
-		
+		match.awayFT = awayFT;
+		match.homeFT = homeFT;
 		return finalScore;
 	}
 /*	

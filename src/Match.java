@@ -106,14 +106,6 @@ public class Match {
     			   + "\nCurrentEvent: " + currentEvent);    	   
     	}//while   
 	}
-
-	/*
-	public void addMatch(MatchSimulator match)
-	{
-	    if (!matches.contains(match))
-		matches.add(match);
-	}
-    */
 	
 	public String toString()
 	{

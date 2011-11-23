@@ -8,8 +8,10 @@ public class Singleton {
 	
 	public ArrayList<Team> teams = new ArrayList<Team>();
 	public ArrayList<MatchDay> matches = new ArrayList<MatchDay>();
+	
 	public int maxTimeInMinutesBetweenEvents = 4;
 	public long maxTimeBetweenEventsInMillis = 2;
+	
 	public long getMaxTimeBetweenEventsInMillis() {
 		return maxTimeBetweenEventsInMillis;
 	}
@@ -67,10 +69,10 @@ public class Singleton {
 		ArrayList<MatchDay> result = new ArrayList<MatchDay>();
 		for (int i = 0; i < matches.size(); i++)
 		{
-			MatchDay t = matches.get(i);
-			if (t.matchDay == matchday)
+			MatchDay md = matches.get(i);
+			if (md.matchDay == matchday)
 			{
-				result.add(t);
+				result.add(md);
 			}
 		}
 		return result;
@@ -83,10 +85,10 @@ public class Singleton {
 		for (int i = 0; i < result.size(); i++)
 		{
 			// Get the specific match on the "matchday"
-			MatchDay t = result.get(i);
-			if (t.matchNo == matchno)
+			MatchDay md = result.get(i);
+			if (md.matchNo == matchno)
 			{
-				return t;
+				return md;
 			}
 		}
 		return null;
